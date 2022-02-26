@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\TesteGitHubCopilot\bin\Debug\net6.0\TesteGitHubCopilot.exe
+C:\Users\Pichau\Documents\TesteGitHubCopilot\bin\Debug\net6.0\TesteGitHubCopilot.deps.json
+C:\Users\Pichau\Documents\TesteGitHubCopilot\bin\Debug\net6.0\TesteGitHubCopilot.runtimeconfig.json
+C:\Users\Pichau\Documents\TesteGitHubCopilot\bin\Debug\net6.0\TesteGitHubCopilot.dll
+C:\Users\Pichau\Documents\TesteGitHubCopilot\bin\Debug\net6.0\TesteGitHubCopilot.pdb
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.AssemblyInfo.cs
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.dll
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\refint\TesteGitHubCopilot.dll
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.pdb
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\TesteGitHubCopilot.genruntimeconfig.cache
+C:\Users\Pichau\Documents\TesteGitHubCopilot\obj\Debug\net6.0\ref\TesteGitHubCopilot.dll
